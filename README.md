@@ -50,7 +50,7 @@ I'm passionate about Data Science, Machine Learning, Artificial Intelligence, an
 
 ## 📂 Featured Projects
 
-### Customer Flow Prediction using Machine Learning and LLM
+### [🏥 Customer Flow Prediction using Machine Learning and LLM](https://github.com/SiaoWeiCheng/customer-flow-prediction-ml-llm)
 
 Final Year Project using Machine Learning and Large Language Models to predict customer movement.
 
