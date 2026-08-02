@@ -56,9 +56,10 @@ Final Year Project using Machine Learning and Large Language Models to predict c
 
 ---
 
-### Customer Churn Prediction
+### [🏠 Airbnb Listing Price Classification](https://github.com/SiaoWeiCheng/airbnb-price-classification)
 
-Machine learning model for predicting customer churn.
+Machine learning project that classifies **Boston Airbnb listings** into **Low-priced** and **High-priced** categories using property and listing features.
+
 
 ---
 
