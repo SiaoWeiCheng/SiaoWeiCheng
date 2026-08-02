@@ -77,6 +77,6 @@ Interactive dashboard for business performance visualization.
 
 ## 📫 Contact
 
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/siao-wei-cheng-26839b349/
 
-Email:
+Email: siaoweicheng@gmail.com
