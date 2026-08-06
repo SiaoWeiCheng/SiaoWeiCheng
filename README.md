@@ -63,10 +63,9 @@ Machine learning project that classifies **Boston Airbnb listings** into **Low-p
 
 ---
 
-### SQL Business Analysis
+### [❤️ Online Heart Disease Risk Detection](https://github.com/SiaoWeiCheng/online-heart-disease-risk-detection)
 
-Business insights using SQL queries and data analysis.
-
+Machine learning application that predicts heart disease risk using demographic, medical, and lifestyle factors with an interactive Streamlit dashboard.
 ---
 
 ### Power BI Dashboard
