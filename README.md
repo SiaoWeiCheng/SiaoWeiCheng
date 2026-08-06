@@ -60,12 +60,12 @@ Final Year Project using Machine Learning and Large Language Models to predict c
 
 Machine learning project that classifies **Boston Airbnb listings** into **Low-priced** and **High-priced** categories using property and listing features.
 
-
 ---
 
 ### [❤️ Online Heart Disease Risk Detection](https://github.com/SiaoWeiCheng/online-heart-disease-risk-detection)
 
 Machine learning application that predicts heart disease risk using demographic, medical, and lifestyle factors with an interactive Streamlit dashboard.
+
 ---
 
 ### Power BI Dashboard
