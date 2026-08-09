@@ -68,9 +68,9 @@ Machine learning application that predicts heart disease risk using demographic,
 
 ---
 
-### Power BI Dashboard
+### [🛒 E-Commerce Data Warehouse & ETL Pipeline](https://github.com/SiaoWeiCheng/ecommerce-data-warehouse)
 
-Interactive dashboard for business performance visualization.
+End-to-end data warehousing project that transforms e-commerce transactional data into an optimized Star Schema using ETL, advanced SQL, and openGauss.
 
 ---
 
