@@ -74,6 +74,12 @@ End-to-end data warehousing project that transforms e-commerce transactional dat
 
 ---
 
+### [💧 SDG 6 Water & Sanitation Dashboard](https://github.com/SiaoWeiCheng/sdg6-water-sanitation-dashboard)
+
+Interactive D3.js data visualization dashboard analyzing global water and sanitation progress across 232 countries from 2000–2024, featuring interactive charts, filtering, and cross-visualization analysis.
+
+---
+
 ## 📫 Contact
 
 LinkedIn: https://www.linkedin.com/in/siao-wei-cheng-26839b349/
