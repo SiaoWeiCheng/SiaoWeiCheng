@@ -80,6 +80,12 @@ Interactive D3.js data visualization dashboard analyzing global water and sanita
 
 ---
 
+### [🐼 Food Delivery App Review Sentiment Analysis](https://github.com/SiaoWeiCheng/foodpanda-sentiment-analysis)
+
+End-to-end NLP project analyzing over **548,000 Foodpanda reviews** using Traditional Machine Learning, Deep Learning, Transformer models, and Aspect-Based Sentiment Analysis to identify customer sentiment and service pain points.
+
+---
+
 ## 📫 Contact
 
 LinkedIn: https://www.linkedin.com/in/siao-wei-cheng-26839b349/
