@@ -18,33 +18,57 @@ I'm passionate about Data Science, Machine Learning, Artificial Intelligence, an
 ## 🛠 Skills
 
 ### Programming
-
 - Python
 - SQL
 - Java
 - C++
 
-### Data Science
-
+### Data Science & Analysis
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
-- Power BI
-
-### Machine Learning
-
-- Classification
-- Regression
+- Seaborn
 - Data Preprocessing
-- Model Evaluation
+- Exploratory Data Analysis (EDA)
 
-### Tools
+### Machine Learning & AI
+- Machine Learning
+- XGBoost
+- K-Means
+- K-Modes
+- Neural Networks
+- Time-Series Forecasting
+- Explainable AI (SHAP)
+- NLP
+- Transformers
+- Sentiment Analysis
+- LLM
 
+### Data Engineering
+- ETL
+- Data Warehousing
+- Star Schema
+- OLAP / OLTP
+- Advanced SQL
+- openGauss
+
+### Data Visualization
+- Power BI
+- D3.js
+- Streamlit
+- Interactive Dashboards
+- Data Storytelling
+
+### Tools & Technologies
 - Git
 - GitHub
 - VS Code
 - Jupyter Notebook
+- Docker
+- TensorFlow
+- Keras
+- spaCy
 
 ---
 
